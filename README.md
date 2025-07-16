@@ -27,8 +27,6 @@ I started my journey from basic computer operations, Now i’m leveling up in pr
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SadiqHash&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br><br>

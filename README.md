@@ -1,31 +1,27 @@
 <h1 align="center">Assalamu Alaikum 👋 I'm Abubukar Muhammad Aminu, SadiqHash</h1>
 
 <p align="center">
-🌍 Fulani Tech Builder From Katagum, Bauchi, Nigeria 🇳🇬<br>
-💻 Python • Blockchain • Web3 • Cybersecurity • Focusing On Future Web4 • AI • Quantum Computer<br>
-🎯 Empowering Northern Nigeria with Technology 💪
+🌍 Tech Builder From Katagum, Bauchi, Nigeria 🇳🇬<br>
+💻 Programmer • Blockchain Analyst • Web3 • Web4 & Quantum Computer<br>
+🎯 Focusing on the future 💪
 </p>
 
 ---
 
 ## 🌟 My Vision
-To create real impact by using digital skills to uplift Arewa communities, connect people with opportunities, and build powerful tech solutions.
+To create something that would help my people, from my hometown to the world.
 
 ---
 
 ## 🛠️ Skills I'm Building
-- 🔐 Cybersecurity & Digital Forensics
-- 🔗 Blockchain Analysis & Web3 (Solidity, Vyper, Hardhat, Remix)
-- 🐍 Python Programming $ python-SDK Qiskit & Cirq
-- 🧠 OS, Networking, Security
-- 📚 Digital Literacy for Arewa Youth
+- 🔗 Blockchain & Web3 (Solidity, Vyper, Hardhat, Remix)
+- 🐍 Programming (Python, PHP, JavaScript)
+- 🧠 Web4 $ Quantum Computer (Solidity, TensorFlow, Azcet, Web3XR, MQTT)
 
 ---
 
 ## 🚀 My Journey
-I started from basic computer operations...  
-Now I’m leveling up in programming, blockchain, cybersecurity & AI — one step at a time.  
-**No shortcuts. No excuses. Just consistency.**
+I started my journey from basic computer operations, Now i’m leveling up in programming, blockchain & Web3, to analysis the future technology Web4 & quantum computer. I'm building my future with code.
 
 ---
 
@@ -33,7 +29,7 @@ Now I’m leveling up in programming, blockchain, cybersecurity & AI — one ste
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SadiqHash&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqHash&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -55,4 +51,4 @@ Now I’m leveling up in programming, blockchain, cybersecurity & AI — one ste
 
 ---
 
-> “From Arewa To The World — Through Code, Dream Big, Building Bigger” ✊
+> “From Arewa to the World, through Code, dream big, building bigger.” ✊

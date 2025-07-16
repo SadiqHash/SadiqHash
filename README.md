@@ -1,7 +1,7 @@
-<h1 align="center">Assalamu Alaikum 👋 I'm Abubukar Muhammad Aminu, AKA SadiqHash</h1>
+<h1 align="center">Assalamu Alaikum 👋 I'm Abubukar Muhammad Aminu, SadiqHash</h1>
 
 <p align="center">
-🌍 Fulani Tech Builder from Katagum, Bauchi, Nigeria 🇳🇬<br>
+🌍 Fulani Tech Builder From Katagum, Bauchi, Nigeria 🇳🇬<br>
 💻 Python • Blockchain • Web3 • Cybersecurity • Focusing On Future Web4 • AI • Quantum Computer<br>
 🎯 Empowering Northern Nigeria with Technology 💪
 </p>

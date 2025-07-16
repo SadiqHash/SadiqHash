@@ -27,10 +27,12 @@ I started my journey from basic computer operations, Now i’m leveling up in pr
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiqHash&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SadiqHash&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqHash&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SadiqHash&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

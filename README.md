@@ -25,30 +25,18 @@ I started my journey from basic computer operations, Now i’m leveling up in pr
 
 ---
 
-## 📈 GitHub Stats (Basic)
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SadiqHash?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/SadiqHash?label=Stars&style=social" />
-  <img src="https://img.shields.io/github/last-commit/SadiqHash/SadiqHash?style=flat-square" />
-</p>
+![SadiqHash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadiqHash&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqHash&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://t.me/YOUR_REAL_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://x.com/SadiqHash01" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:saddeequjp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+[![Twitter](https://img.shields.io/badge/X-%40SadiqHash01-blue?style=for-the-badge&logo=twitter)](https://x.com/SadiqHash01)
+[![Email](https://img.shields.io/badge/Email-saddeequjp@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:saddeequjp@gmail.com)
 ---
 
 <p align="center">

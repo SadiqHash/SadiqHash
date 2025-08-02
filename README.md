@@ -2,7 +2,7 @@
 
 <p align="center">
 🌍 Tech Builder From Katagum, Bauchi, Nigeria 🇳🇬<br>
-💻 Programmer • Blockchain Analyst • Web3 • Web4 & Quantum Computer<br>
+💻 Programmer • Blockchain Analyst • Web3 • Web4 & Quantum Computing<br>
 🎯 Focusing on the future 💪
 </p>
 

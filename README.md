@@ -8,19 +8,19 @@
 
 ---
 
-## 🌟 My Vision
+## My Vision
 To create something that would help my people, from my hometown to the world.
 
 ---
 
-## 🛠️ Skills I'm Building
+## Skills I'm Building
 - 🔗 Blockchain & Web3 (Solidity, Vyper, Hardhat, Remix)
 - 🐍 Programming (Python, PHP, JavaScript)
 - 🧠 Web4 $ Quantum Computer (Solidity, TensorFlow, Azcet, Web3XR, MQTT)
 
 ---
 
-## 🚀 My Journey
+## My Journey
 I started my journey from basic computer operations, Now i’m leveling up in programming, blockchain & Web3, to analysis the future technology Web4 & quantum computer. I'm building my future with code.
 
 ---

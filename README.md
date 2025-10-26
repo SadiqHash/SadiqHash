@@ -25,6 +25,7 @@ I started my journey from basic computer operations, now i’m leveling up in pr
 
 [![Twitter](https://img.shields.io/badge/X-%40SadiqHash01-blue?style=for-the-badge&logo=twitter)](https://x.com/SadiqHash01)
 [![Email](https://img.shields.io/badge/Email-saddeequjp@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:saddeequjp@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348136675191?text=Hi%20SadiqHash!%20I%20found%20you%20on%20GitHub.)
 ---
 
 <p align="center">

@@ -1,15 +1,15 @@
 <h1 align="center">Assalamu Alaikum 👋 I'm Abubukar Muhammad Aminu, SadiqHash</h1>
 
 <p align="center">
-🌍 Tech Builder From Katagum, Bauchi, Nigeria 🇳🇬<br>
-💻 Programmer <br>
-🎯 Focusing on the future 💪
+🌍 Tech Guy 🇳🇬<br>
+💻 Backend Dev <br>
+🎯 Aim for the future 💪
 </p>
 
 ---
 
 ## My Journey
-I started my journey from basic computer operations, Now i’m leveling up in programming, blockchain & Web3, to analysis the future technology. I'm building my future with code.
+I started my journey from basic computer operations, now i’m leveling up in programming, to analysis the future technology. I'm building my future with code.
 
 ---
 
@@ -33,4 +33,4 @@ I started my journey from basic computer operations, Now i’m leveling up in pr
 
 ---
 
-> “From Arewa to the World, through Code, dream big, building bigger.” ✊
+> “From arewa to the world, through code, dream big, build big, talk less, code more.” ✊

@@ -14,8 +14,7 @@
 </h2>
 
 <p align="center" style="font-family: 'Arial', sans-serif; color: #C0C0C0; font-size: 16px; line-height: 1.6;">
-My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code 💻.<br> I stepped into <b>Programming</b>, where i discovered my true passion for <b>Backend Development</b> ⚙️ mastering tools like:<br>
-<p align="center">
+My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code 💻.<br>I stepped into <b>Programming</b>, where i discovered my true passion for <b>Backend Development</b> ⚙️ mastering tools like:<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />&nbsp;
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />&nbsp;

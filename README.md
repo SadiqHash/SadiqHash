@@ -13,10 +13,8 @@
   🚀 My Journey
 </h2>
 
-• My journey began with the  
-<img src="https://img.shields.io/badge/core%20of%20computing-%2300FFFF%20%7C%20%23FF00FF%20%7C%20%23FFD700%20%7C%20%2300FF7F?style=for-the-badge&label=" alt="core of computing" /> understanding how systems work and how to make them communicate through  
-<span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 17px;"> CODE 💻
-</span><br>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #C0C0C0; font-size: 16px; line-height: 1.6;">
+  • My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code.<br><br>
 
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>

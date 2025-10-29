@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./typing.svg" alt="Welcome typing" />
+  
 <svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
   <style>
     text {
@@ -29,6 +30,7 @@
     <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="5s" fill="freeze" />
   </text>
 </svg>
+      
 </p>
 
 <p align="center">

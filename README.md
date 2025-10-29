@@ -9,8 +9,14 @@
 
 ---
 
-## My Journey
-I started my journey from basic computer operations, now i’m leveling up in programming, to analysis the future technology. I'm building my future with code.
+<h2 align="center" style="font-family: 'Arial Black', sans-serif; color: #00FFFF;">
+  🚀 My Journey
+</h2>
+
+<p align="center" style="font-family: 'Arial', sans-serif; color: #C0C0C0; font-size: 16px; line-height: 1.6;">
+My first journey began with <b>Computer Basics</b> learning how systems work.<br> I moved deeper into <b>Programming</b> where i found my passion in <b>Backend Development</b>, especially coding with <b>Python</b> 🐍.<br> Then came the world of <b>Web3, Crypto & Blockchain</b> 🌐 I explored how blockchain works, diving into <b>Bitcoin</b>, <b>Ethereum</b>, and started building with <b>Solidity</b>, <b>Vyper</b>, <b>Ethers.js</b>, and <b>Web3.js</b>.<br> Curiosity led me into the realm of <b>Artificial Intelligence (AI)</b> 🤖 understanding how AI is reshaping humanity and dedicating myself to continuous research in this evolving field.<br> Finally, I ran <b>toward the future before it arrives</b> ⚛️ stepping into <b>Quantum Computing</b>, learning the fundamentals of <b>qubits</b>, <b>superposition</b>, and <b>quantum algorithms</b> using <b>Qiskit</b> and <b>Cirq</b>.<br><br>
+  🌟 This is my journey, a path built by curiosity, code, and vision for the future 😎
+</p>
 
 ---
 

@@ -2,11 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=56&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&lines=Assalumu+Alaikum+👋;I'm+Abubakar+Aminu;SadiqHash" alt="Typing SVG" />
 </p>
 
-<p align="center">
-🌍 Tech Guy 🇳🇬<br>
-💻 Backend Dev <br>
-🎯 Aim for the future 💪
-</p>
+<h2 align="center" style="font-family: 'Arial Black', sans-serif; color: #00FFFF; font-size: 18px;">
+  🌍 Tech Guy &nbsp;• &nbsp;💻 Backend Dev <br>
+  🖥️ AI &amp; Quantum Researcher
+</h2>
 
 ---
 

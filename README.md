@@ -25,6 +25,11 @@ My journey began with the <b>core of computing</b> understanding how systems wor
   <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
+My curiosity pushed me into the world of 
+<b>Web3, Crypto & Blockchain</b> 🌐 learning how <b>decentralization</b> changes systems, exploring 
+<b>Bitcoin</b>, <b>Ethereum</b>, and building smart contracts with 
+<b>Solidity</b>, <b>Ethers.js</b>, and <b>Web3.js</b>.<br><br>
+
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>
 

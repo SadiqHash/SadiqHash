@@ -13,10 +13,10 @@
   🚀 My Journey
 </h2>
 
-<p align="center" style="font-family: 'Arial', sans-serif; color: #C0C0C0; font-size: 16px; line-height: 1.6;">
-My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code.<br> Then I stepped into <b>Programming</b>, where i discovered my true passion for <b>Backend Development</b> ⚙️ mastering tools like 
-  <b>Python</b>, <b>Django</b>, <b>FastAPI</b>, <b>Node.js</b>, <b>Express</b>, <b>PostgreSQL</b>, <b>MySQL</b>, and <b>REST APIs</b>.<br> My curiosity pushed me into the world of <b>Web3, Crypto & Blockchain</b> 🌐 learning how <b>decentralization</b> changes systems, exploring 
-  <b>Bitcoin</b>, <b>Ethereum</b>, and building smart contracts with <b>Solidity</b>, <b>Vyper</b>, <b>Ethers.js</b>, and <b>Web3.js</b>.<br> As technology evolved, i entered the age of <b>Artificial Intelligence (AI)</b> 🤖 researching how AI shapes the world, exploring <b>machine learning</b>, <b>neural networks</b>, and how intelligence can be built from data.<br> Then, I decided to <b>run toward the future before it arrives</b> ⚛️ stepping into <b>Quantum Computing</b>, learning the power of <b>superposition</b>, <b>entanglement</b>, and <b>quantum algorithms</b> using <b>Qiskit</b> and <b>Cirq</b>.<br><br>
+• My journey began with the  
+<img src="https://img.shields.io/badge/core%20of%20computing-%2300FFFF%20%7C%20%23FF00FF%20%7C%20%23FFD700%20%7C%20%2300FF7F?style=for-the-badge&label=" alt="core of computing" /> understanding how systems work and how to make them communicate through  
+<span style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 17px;"> CODE 💻
+</span><br>
 
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>

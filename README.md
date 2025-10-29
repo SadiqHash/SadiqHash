@@ -14,7 +14,17 @@
 </h2>
 
 <p align="center" style="font-family: 'Arial', sans-serif; color: #C0C0C0; font-size: 16px; line-height: 1.6;">
-  • My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code.<br><br>
+My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code 💻.<br> I stepped into <b>Programming</b>, where i discovered my true passion for <b>Backend Development</b> ⚙️ mastering tools like:<br>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />&nbsp;
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />&nbsp;
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=postman&logoColor=white" />
+</p>
 
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>

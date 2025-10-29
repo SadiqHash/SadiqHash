@@ -1,22 +1,81 @@
-<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 320" width="100%" height="320" role="img" aria-label="Welcome typing">
+  <defs/>
   <style>
-    text {
-      font-family: 'Arial Black', sans-serif;
-      font-size: 28px;
-      fill: #00BFFF;
-    }
-    @keyframes wave {
-      0%, 100% { transform: rotate(0deg); }
-      25% { transform: rotate(20deg); }
-      75% { transform: rotate(-20deg); }
-    }
-    .wave {
-      animation: wave 1.5s infinite;
-      transform-origin: 60px 45px;
-    }
+    .main { font-family: "Arial Black", "Arial", sans-serif; font-weight:900; font-size:140px; fill:#00FF9D; letter-spacing:2px; }
+    .hand { font-family: "Arial Black", "Arial", sans-serif; font-size:160px; opacity:0.18; }
   </style>
 
-  <text x="10" y="50" class="wave">👋</text>
+  <g transform="translate(420,170)">
+    <text class="hand" x="0" y="0" text-anchor="start" dominant-baseline="middle">👋</text>
+    <animateTransform attributeName="transform"
+                      type="rotate"
+                      additive="sum"
+                      values="0 40 40; 18 40 40; 0 40 40; -18 40 40; 0 40 40"
+                      dur="1.4s"
+                      repeatCount="indefinite"/>
+  </g>
 
-  <text x="80" y="50">Assalamu Alaikum! I'm Abubakar Muhammad Aminu, SadiqHash</text>
+  <g transform="translate(40,190)">
+    <text class="main" x="0" y="0" text-anchor="start" dominant-baseline="middle">
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0s"    dur="0.001s" fill="freeze"/>A</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.055s" dur="0.001s" fill="freeze"/>s</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.110s" dur="0.001s" fill="freeze"/>s</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.165s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.220s" dur="0.001s" fill="freeze"/>l</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.275s" dur="0.001s" fill="freeze"/>u</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.330s" dur="0.001s" fill="freeze"/> </tspan>
+
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.385s" dur="0.001s" fill="freeze"/>A</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.440s" dur="0.001s" fill="freeze"/>l</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.495s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.550s" dur="0.001s" fill="freeze"/>i</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.605s" dur="0.001s" fill="freeze"/>k</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.660s" dur="0.001s" fill="freeze"/>u</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.715s" dur="0.001s" fill="freeze"/>m</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.770s" dur="0.001s" fill="freeze"/> </tspan>
+
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.825s" dur="0.001s" fill="freeze"/>I</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.880s" dur="0.001s" fill="freeze"/>'</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.935s" dur="0.001s" fill="freeze"/>m</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="0.990s" dur="0.001s" fill="freeze"/> </tspan>
+
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.045s" dur="0.001s" fill="freeze"/>A</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.100s" dur="0.001s" fill="freeze"/>b</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.155s" dur="0.001s" fill="freeze"/>u</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.210s" dur="0.001s" fill="freeze"/>b</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.265s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.320s" dur="0.001s" fill="freeze"/>k</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.375s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.430s" dur="0.001s" fill="freeze"/>r</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.485s" dur="0.001s" fill="freeze"/> </tspan>
+
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.540s" dur="0.001s" fill="freeze"/>M</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.595s" dur="0.001s" fill="freeze"/>u</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.650s" dur="0.001s" fill="freeze"/>h</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.705s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.760s" dur="0.001s" fill="freeze"/>m</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.815s" dur="0.001s" fill="freeze"/>m</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.870s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.925s" dur="0.001s" fill="freeze"/>d</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="1.980s" dur="0.001s" fill="freeze"/> </tspan>
+
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.035s" dur="0.001s" fill="freeze"/>A</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.090s" dur="0.001s" fill="freeze"/>m</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.145s" dur="0.001s" fill="freeze"/>i</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.200s" dur="0.001s" fill="freeze"/>n</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.255s" dur="0.001s" fill="freeze"/>u</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.310s" dur="0.001s" fill="freeze"/>,</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.365s" dur="0.001s" fill="freeze"/> </tspan>
+
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.420s" dur="0.001s" fill="freeze"/>S</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.475s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.530s" dur="0.001s" fill="freeze"/>d</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.585s" dur="0.001s" fill="freeze"/>i</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.640s" dur="0.001s" fill="freeze"/>q</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.695s" dur="0.001s" fill="freeze"/>H</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.750s" dur="0.001s" fill="freeze"/>a</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.805s" dur="0.001s" fill="freeze"/>s</tspan>
+      <tspan fill-opacity="0"><animate attributeName="fill-opacity" to="1" begin="2.860s" dur="0.001s" fill="freeze"/>h</tspan>
+    </text>
+  </g>
 </svg>

@@ -28,7 +28,16 @@ My journey began with the <b>core of computing</b> understanding how systems wor
 My curiosity pushed me into the world of 
 <b>Web3, Crypto & Blockchain</b> 🌐 learning how <b>decentralization</b> changes systems, exploring 
 <b>Bitcoin</b>, <b>Ethereum</b>, and building smart contracts with 
-<b>Solidity</b>, <b>Ethers.js</b>, and <b>Web3.js</b>.<br><br>
+<b>Solidity</b>, <b>Ethers.js</b>, and <b>Web3.js</b><p align="center">
+  <img alt="Web3" src="https://img.shields.io/badge/Web3-121D33?style=flat-square&logo=web3.js&logoColor=white" />&nbsp;
+  <img alt="Crypto" src="https://img.shields.io/badge/Crypto-FF9900?style=flat-square&logo=bitcoin&logoColor=white" />&nbsp;
+  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-0A66C2?style=flat-square&logo=blockchain.com&logoColor=white" />&nbsp;
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />&nbsp;
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />&nbsp;
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />&nbsp;
+  <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=javascript&logoColor=white" />&nbsp;
+  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white" />
+</p>
 
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>

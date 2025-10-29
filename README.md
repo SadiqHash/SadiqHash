@@ -1,4 +1,6 @@
-<h1 align="center">Assalamu Alaikum 👋 I'm Abubukar Muhammad Aminu, SadiqHash</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Assalamu+Alaikum!+I'm+Abubakar+Muhammad+Aminu,+SadiqHash" alt="Typing SVG" />
+</p>
 
 <p align="center">
 🌍 Tech Guy 🇳🇬<br>

@@ -1,35 +1,6 @@
 <p align="center">
   <img src="./typing.svg" alt="Welcome typing" />
   
-<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    text {
-      font-family: 'Arial Black', sans-serif;
-      font-size: 28px;
-      fill: #00BFFF; 
-    }
-    @keyframes typing {
-      from { stroke-dasharray: 0 200; }
-      to { stroke-dasharray: 200 0; }
-    }
-    @keyframes wave {
-      0%, 100% { transform: rotate(0deg); }
-      25% { transform: rotate(20deg); }
-      75% { transform: rotate(-20deg); }
-    }
-    .wave {
-      animation: wave 1.5s infinite;
-      transform-origin: 60px 45px;
-    }
-  </style>
-
-  <text x="10" y="50" class="wave">👋</text>
-
-  <text x="80" y="50">
-    <tspan id="text">Assalamu Alaikum! I'm Abubakar Muhammad Aminu, SadiqHash</tspan>
-    <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="5s" fill="freeze" />
-  </text>
-</svg>
       
 </p>
 

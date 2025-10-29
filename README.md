@@ -14,8 +14,19 @@
 </h2>
 
 <p align="center" style="font-family: 'Arial', sans-serif; color: #C0C0C0; font-size: 16px; line-height: 1.6;">
-My first journey began with <b>Computer Basics</b> learning how systems work.<br> I moved deeper into <b>Programming</b> where i found my passion in <b>Backend Development</b>, especially coding with <b>Python</b> 🐍.<br> Then came the world of <b>Web3, Crypto & Blockchain</b> 🌐 I explored how blockchain works, diving into <b>Bitcoin</b>, <b>Ethereum</b>, and started building with <b>Solidity</b>, <b>Vyper</b>, <b>Ethers.js</b>, and <b>Web3.js</b>.<br> Curiosity led me into the realm of <b>Artificial Intelligence (AI)</b> 🤖 understanding how AI is reshaping humanity and dedicating myself to continuous research in this evolving field.<br> Finally, I ran <b>toward the future before it arrives</b> ⚛️ stepping into <b>Quantum Computing</b>, learning the fundamentals of <b>qubits</b>, <b>superposition</b>, and <b>quantum algorithms</b> using <b>Qiskit</b> and <b>Cirq</b>.<br><br>
-  🌟 This is my journey, a path built by curiosity, code, and vision for the future 😎
+  • My journey began with the <b>core of computing</b> understanding how systems work and how to make them communicate through code.<br><br>
+
+  • Then I stepped into <b>Programming</b>, where i discovered my true passion for <b>Backend Development</b> ⚙️ mastering tools like 
+  <b>Python</b>, <b>Django</b>, <b>FastAPI</b>, <b>Node.js</b>, <b>Express</b>, <b>PostgreSQL</b>, <b>MySQL</b>, and <b>REST APIs</b>.<br><br>
+
+  • My curiosity pushed me into the world of <b>Web3, Crypto & Blockchain</b> 🌐 learning how <b>decentralization</b> changes systems, exploring 
+  <b>Bitcoin</b>, <b>Ethereum</b>, and building smart contracts with <b>Solidity</b>, <b>Vyper</b>, <b>Ethers.js</b>, and <b>Web3.js</b>.<br><br>
+
+  • As technology evolved, i entered the age of <b>Artificial Intelligence (AI)</b> 🤖 researching how AI shapes the world, exploring <b>machine learning</b>, <b>neural networks</b>, and how intelligence can be built from data.<br><br>
+
+  • Then, I decided to <b>run toward the future before it arrives</b> ⚛️ stepping into <b>Quantum Computing</b>, learning the power of <b>superposition</b>, <b>entanglement</b>, and <b>quantum algorithms</b> using <b>Qiskit</b> and <b>Cirq</b>.<br><br>
+
+  🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>
 
 ---

@@ -1,7 +1,5 @@
 <p align="center">
   <img src="./typing.svg" alt="Welcome typing" />
-  
-      
 </p>
 
 <p align="center">

@@ -39,6 +39,21 @@ My curiosity pushed me into the world of
   <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
+<p align="center">
+  As technology evolved, i entered the age of <b>Artificial Intelligence (AI)</b> 🤖 — researching how AI shapes the world, exploring 
+  <b>Machine Learning</b>, <b>Neural Networks</b>, and how intelligence can be built from data.<br><b>My AI Tools & Knowledge Stack:</b>
+</p>
+<p align="center">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />&nbsp;
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />&nbsp;
+  <img alt="Requests" src="https://img.shields.io/badge/Requests-FFDD00?style=flat-square&logo=python&logoColor=black" />&nbsp;
+  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />&nbsp;
+  <img alt="Boolean Logic" src="https://img.shields.io/badge/Boolean%20Logic-1E1E1E?style=flat-square&logo=matrix&logoColor=00FFFF" />
+</p>
+
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>
 

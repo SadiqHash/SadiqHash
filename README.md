@@ -84,14 +84,6 @@ Then, i decided to <b>run toward the future before it arrives</b> ⚛️ — ste
 
 ---
 
-### 📊 GitHub Stats
-
-![SadiqHash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadiqHash&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqHash&layout=compact&theme=radical)
-
----
-
 ### 🤝 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddeequjp@gmail.com)

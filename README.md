@@ -54,6 +54,22 @@ My curiosity pushed me into the world of
   <img alt="Boolean Logic" src="https://img.shields.io/badge/Boolean%20Logic-1E1E1E?style=flat-square&logo=matrix&logoColor=00FFFF" />
 </p>
 
+<p align="center">
+Then, i decided to <b>run toward the future before it arrives</b> ⚛️ — stepping into <b>Quantum Computing</b>, learning the power of 
+  <b>superposition</b>, <b>entanglement</b>, and <b>quantum algorithms</b> using <b>Qiskit</b> and <b>Cirq</b>.<br><b>My Quantum Stack ⚛️</b>
+</p>
+<p align="center">
+  <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />&nbsp;
+  <img alt="Cirq" src="https://img.shields.io/badge/Cirq-FF6F00?style=flat-square&logo=google&logoColor=white" />&nbsp;
+  <img alt="Q#" src="https://img.shields.io/badge/Q%23-512BD4?style=flat-square&logo=microsoft&logoColor=white" />&nbsp;
+  <img alt="Qubits" src="https://img.shields.io/badge/Qubits-0A0A0A?style=flat-square&logo=quantconnect&logoColor=00FFFF" />&nbsp;
+  <img alt="Hadamard Gate" src="https://img.shields.io/badge/Hadamard_Gate-2E2E2E?style=flat-square&logo=matrix&logoColor=00FFAA" />&nbsp;
+  <img alt="Quantum Algorithms" src="https://img.shields.io/badge/Quantum_Algorithms-1A237E?style=flat-square&logo=codeproject&logoColor=white" />&nbsp;
+  <img alt="QKD" src="https://img.shields.io/badge/QKD-283593?style=flat-square&logo=shield&logoColor=00FFFF" />&nbsp;
+  <img alt="Quantum Machine Learning" src="https://img.shields.io/badge/QML-00695C?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+  <img alt="BB84 Protocol" src="https://img.shields.io/badge/BB84_Protocol-37474F?style=flat-square&logo=protocols.io&logoColor=00FFFF" />
+</p>
+
   🌟 This is my journey, a path built on <b>curiosity, innovation, and the future of code</b> 😎
 </p>
 

@@ -99,4 +99,4 @@ Then, i decided to <b>run toward the future before it arrives</b> ⚛️ — ste
 
 ---
 
-> “From arewa to the world, through code, dream big, build big, talk less, code more.” ✊
+> “From arewa to the world, through code, dream big, build big, talk less, code more, the system runs on code, i run on purpose.”✊

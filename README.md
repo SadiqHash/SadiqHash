@@ -76,7 +76,7 @@ Then, i decided to <b>run toward the future before it arrives</b> ⚛️ steppin
 <h2 align="center" style="color:#00FFFF;"> Let's Build The Future Together</h2>
 
 <p align="center" style="font-size:16px;">
-  I believe technology isn't just about writing <b>code</b> — it's about <b>creating impact</b>, 
+  I believe technology isn't just about writing <b>code</b> it's about <b>creating impact</b>, 
   <b>solving problems</b>, and <b>shaping tomorrow</b>. 🌍<br>I'm always open to <b>collaboration</b>, <b>innovation</b>, <b>contribution</b>, and <b>learning</b> from minds across the world. Whether it's <b>AI</b>, <b>Quantum Computing</b>, <b>Backend Development</b>, or <b>Blockchain.</b> let's connect and build something that truly matters. <br> <i>
 
 "The future belongs to those who create it, and i'm already building mine, one line of code at a time."</i>

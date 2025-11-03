@@ -40,7 +40,7 @@ My curiosity pushed me into the world of
 </p>
 
 <p align="center">
-  As technology evolved, i entered the age of <b>Artificial Intelligence (AI)</b> 🤖 — researching how AI shapes the world, exploring 
+  As technology evolved, i entered the age of <b>Artificial Intelligence (AI)</b> 🤖 researching how AI shapes the world, exploring 
   <b>Machine Learning</b>, <b>Neural Networks</b>, and how intelligence can be built from data.<br><b>My AI Tools & Knowledge Stack:</b>
 </p>
 <p align="center">
@@ -55,7 +55,7 @@ My curiosity pushed me into the world of
 </p>
 
 <p align="center">
-Then, i decided to <b>run toward the future before it arrives</b> ⚛️ — stepping into <b>Quantum Computing</b>, learning the power of 
+Then, i decided to <b>run toward the future before it arrives</b> ⚛️ stepping into <b>Quantum Computing</b>, learning the power of 
   <b>superposition</b>, <b>entanglement</b>, and <b>quantum algorithms</b> using <b>Qiskit</b> and <b>Cirq</b>.<br><b>My Quantum Stack ⚛️</b>
 </p>
 <p align="center">

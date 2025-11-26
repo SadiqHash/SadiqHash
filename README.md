@@ -3,8 +3,7 @@
 </p>
 
 <h2 align="center" style="font-family: 'Arial Black', sans-serif; color: #00FFFF; font-size: 14px; line-height: 1.1;">
-  🌍 Tech Guy • 💻 Backend Dev <br>
-  🖥️ AI &amp; Quantum Explorer
+  🌍 Tech Guy
 </h2>
 
 ---
